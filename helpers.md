@@ -1078,7 +1078,7 @@ $adjusted = str_start('this/string', '/');
 
 $adjusted = str_start('/this/string/', '/');
 
-// /this/string
+// /this/string/
 ````
 
 <a name="method-studly-case"></a>
